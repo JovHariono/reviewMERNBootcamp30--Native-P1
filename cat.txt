@@ -1,0 +1,4 @@
+npx expo start
+
+div - View,Text
+TextOpacity(di klik akan memberi respon jadi putih) = Button
